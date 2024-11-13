@@ -1,1 +1,2 @@
-utils/data/*
+utils/data/wikibooks.sqlite
+!utils/data/
